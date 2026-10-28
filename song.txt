@@ -1,7 +1,5 @@
 első sor
-meg második
 
-egy kihagyás után a harmadik
-meg még valami
 
 új branch feature
+and some stuff
